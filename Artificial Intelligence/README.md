@@ -6,7 +6,7 @@
 
 ### 1. Transform万物起源
 
-- **论文**：[🔥*Attention Is All You Need*](https://arxiv.org/abs/1706.03762)
+ **论文**：[🔥*Attention Is All You Need*](https://arxiv.org/abs/1706.03762)
 - **简介**：Transformer 架构奠基作，用注意力机制替代传统循环/卷积结构，开启大模型时代（BERT、GPT 均基于此拓展）。
 
 ### 2. Bert 预训练里程碑
